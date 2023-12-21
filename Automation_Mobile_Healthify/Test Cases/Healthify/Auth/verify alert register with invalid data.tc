@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>verify alert register with invalid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0abd0c27-1dac-4df6-99fd-4f6278460f61</testCaseGuid>
+</TestCaseEntity>
